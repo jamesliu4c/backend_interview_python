@@ -1,7 +1,9 @@
 # Developer tools
 
 black
+httpie
 ipython
+isort
 pytest
 ruff
 xdoctest
