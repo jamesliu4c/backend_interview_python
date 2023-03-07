@@ -1,0 +1,16 @@
+# Developer tools
+
+black
+ipython
+pytest
+ruff
+xdoctest
+
+# Application dependencies
+
+flask
+flask-migrate
+flask-sqlalchemy
+montydb
+requests
+sqlalchemy
