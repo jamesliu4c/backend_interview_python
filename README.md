@@ -1,16 +1,15 @@
 # Backend Interview Repository
 
-This is a Python project with Flask, set up using pip-tools.
+To use this for an interview, click teh green <> Code button, click the Codespaces tab, and create a new codespace.
+
+You will need to install the Liveshare extension to share with anyone else. And once you have the live share active, you will need to change your terminal from read only to read/write. This is why we are using a codespace, so you don't have this on your computer.
+
+This is a Python project with Flask, set up using UV.
 
 In case the workspace is brand new, fresh, do this:
 
 ```bash
-pip install --upgrade pip
-python -m venv env
-source env/bin/activate
-pip insall pip-tools
-pip-compile
-pip-sync
+bash ./bootstrap
 ```
 
 Once that is set up, you can run the app with hot reload:
