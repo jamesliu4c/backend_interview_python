@@ -1,6 +1,6 @@
 # Backend Interview Repository
 
-To use this for an interview, click teh green <> Code button, click the Codespaces tab, and create a new codespace.
+To use this for an interview, click the green <> Code button, click the Codespaces tab, and create a new codespace.
 
 You will need to install the Liveshare extension to share with anyone else. And once you have the live share active, you will need to change your terminal from read only to read/write. This is why we are using a codespace, so you don't have this on your computer.
 
